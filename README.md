@@ -1,4 +1,3 @@
-# surbhi-_Repository
 ##Mentors
 - Chaitanya Sannake
 - Prajyot Chakre
